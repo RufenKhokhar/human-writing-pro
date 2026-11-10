@@ -1,0 +1,2 @@
+df721d369f50430c1876122868cdd8b16967df29c9e21ed9e6c973dcebbf4cc5  human-writing-pro-1.0.0-skill.zip
+02c797d8d201128af362674063834bb03a0b7029985442eb1ae61a4073188f3f  human-writing-pro-1.0.0-repository.zip

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Human Writing Pro"
+  short_description: "Natural articles, titles, descriptions, and copy"
+  default_prompt: "Use $human-writing-pro to write or revise my content in a clear, natural voice for its intended audience."
